@@ -2,17 +2,11 @@
 # Introduction
 # Question for Analysis
 * How many geographical location is involved?
-* What is the total number of young female death?
-* What is the total number of young male death?
-* What is the total number of death between the age of 10-14?
-* What is the total number of death between the age of 10-19?
-* What is the total number of death between the age of 15-19?
-* What is the total number of death between the age of 5-9?
-* What is the total number of death between the age of 5-14?
-* Which geographical location has the highest number of death between the age of 10-14?
-* Which geographical location has the highest number of death between the age of 10-19?
-* Which geographical location has the highest number of death between the age of 15-19?
-* Which geographical location has the highest number of death between the age of 5-9?
-* Which geographical location has the highest number of death between the age of 5-14?
-* What year has the highest number of death?
-* What year has the least number of death?
+* Which of the geographical location was having the highest C-sections conducted?
+* what percentage of the C-section data collected was reanalysed?
+* How many data source was used for the collection of data?
+* which of the data source was mostly used?
+* How many source link was used?
+* which of the source links was frequently used?
+* Which year was the highest number of C- Section conducted?
+* which year was the least number of C-Section conducted?
