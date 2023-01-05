@@ -4,7 +4,6 @@
 # Question for Analysis
 * How many geographical location is involved?
 * Which of the geographical location was having the highest C-sections conducted?
-* what percentage of the C-section data collected was reanalysed?
 * How many data source was used for the collection of data?
 * which of the data source was mostly used?
 * How many source link was used?
@@ -19,6 +18,5 @@
 # Conclusion
 * There are 161 Geaograhical locations considered.
 * There are 75 data source considered for the analysis.
-* 88% of the data collected were reanalysed.
 * Brazil recorded the highest number of C-Section conducted.
 * Year 2021 was the year with the highets number of C-section conducted with year 2020 with the least number of C-section conducted.
